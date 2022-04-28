@@ -14,4 +14,4 @@ To get reimbursed for your expenses, just fill in our simple form and we'll get 
 
 {% embed url="https://2w3pnm4iy73.typeform.com/to/e51Urcwb" %}
 
-Hello new edit!
+Hello New Edit!!
